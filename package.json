@@ -1,0 +1,22 @@
+{
+  "name": "awesome-service",
+  "version": "1.0.0",
+  "description": "An awesome service - still trying to figure out what it does though...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kylir/awesome-service.git"
+  },
+  "author": "Jason Forest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kylir/awesome-service/issues"
+  },
+  "homepage": "https://github.com/Kylir/awesome-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
